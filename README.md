@@ -3,6 +3,7 @@
 ## Tech Stack 
 
 * Next.js
+* typescript
 * Express.js
 
 ## running the API
