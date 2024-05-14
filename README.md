@@ -1,7 +1,11 @@
 # Quadro kanban - Frontend e backend
 
-## Rodando a API
+## Tech Stack 
 
+* Next.js
+* Express.js
+
+## Rodando a API
 
 Para rodá-la, faça:
 
