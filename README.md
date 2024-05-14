@@ -1,18 +1,14 @@
-# Quadro kanban - Frontend e backend
+# kanban dashboard - Frontend e backend
 
 ## Tech Stack 
 
 * Next.js
 * Express.js
 
-## Rodando a API
-
-Para rodá-la, faça:
+## running the API
 
 ```console
 > cd BACK
 > npm install
 > npm run server
 ```
-
-Ela responderá na porta 5000.
